@@ -1,5 +1,5 @@
 import Koa from 'koa'
-
+import Sequelize from 'sequelize'
 import { port } from './config/config'
 
 const app = new Koa()
