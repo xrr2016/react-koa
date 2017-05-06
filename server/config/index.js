@@ -1,6 +1,6 @@
 export const port = process.env.PROT || 8000
 export const db = {
-  table: 'react-koa',
+  schema: 'anime_schema',
   username: 'root',
   password: 'root'
 } 
