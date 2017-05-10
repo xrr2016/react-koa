@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   height: 100%;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family:'Source Sans Pro', sans-serif;
 }
 
 *, *::before, *::after {
