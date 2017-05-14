@@ -1,0 +1,1 @@
+export const COLLECT_ANIME = 'COLLECT_ANIME'
